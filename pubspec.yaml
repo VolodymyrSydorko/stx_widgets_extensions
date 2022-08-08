@@ -1,7 +1,10 @@
 name: stx_widgets_extensions
 description: Provides some useful extensions for Widget class.
 version: 0.0.1
-homepage: 
+
+homepage: https://github.com/VolodymyrSydorko/stx_widgets_extensions
+documentation: https://github.com/VolodymyrSydorko/stx_widgets_extensions
+repository: https://github.com/VolodymyrSydorko/stx_widgets_extensions
 
 environment:
   sdk: ">=2.17.0 <3.0.0"
